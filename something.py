@@ -1,0 +1,1 @@
+https://github.com/jealous/stockstats/blob/master/test.py
